@@ -8,7 +8,7 @@ This week it was about exploring the extinct plants dataset. Some initial explor
 
 ![Threats and Actions taken in the extinct plants dataset](/20200818_ExtinctPlants_color.png "Threats and Actions taken in the extinct plants datasetr")
 
-Same figure but using some of the standard color palettes. It is more difficult to ignore the part of the graph for the unknown threats/actions
+Same figure but using some of the standard color palettes. It is more difficult to ignore the part of the graph for the unknown threats/actions. The use of dark gray in Panel B gives too much attention to the unknown actions. 
 ![Threats and Actions taken in the extinct plants dataset - standard palettes](/20200818_ExtinctPlants.png "Threats and Actions taken in the extinct plants datasetr - standard palettes")
 
 
