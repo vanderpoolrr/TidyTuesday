@@ -2,11 +2,20 @@
 
 A repository for contributions to the Tidy Tuesday intiative: [https://github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday). 
 
+## [2020-11-03 - Data: IKEA](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-11-03/readme.md)
+
+This week it was about exploring prices of items on IKEA Saudi Arabian website that was collected using web scraping and deposited on kaggle. Did the typical data exploration of the average price in each of the furniature categories. Changed the font to the IKEA font "Noto Sans" and the colors to the [IKEA colors](https://brandpalettes.com/ikea-logo-color-codes). 
+
+ Some initial exploration using networks but then ended with some faceted plots. Color is always an interesting thing to play around with to assist with communication of the data. [R code to generate figure](/20201103_IKEA.R)
+
+![Average price in each furniture category](/20201103_TidyTuesday_IKEA.png "Average prices")
+
+
 ## [2020-08-19 - Data: Plants in Danger](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/readme.md)
 
 This week it was about exploring the extinct plants dataset. Some initial exploration using networks but then ended with some faceted plots. Color is always an interesting thing to play around with to assist with communication of the data. [R code to generate figure](/2020818_ExtinctPlants_clean.R)
 
-![Threats and Actions taken in the extinct plants dataset](/20200818_ExtinctPlants_color.png "Threats and Actions taken in the extinct plants datasetr")
+![Threats and Actions taken in the extinct plants dataset](/20200818_ExtinctPlants_color.png "Threats and Actions taken in the extinct plants dataset")
 
 Same figure but using some of the standard color palettes. It is more difficult to ignore the part of the graph for the unknown threats/actions. The use of dark gray in Panel B gives too much attention to the unknown actions. 
 ![Threats and Actions taken in the extinct plants dataset - standard palettes](/20200818_ExtinctPlants.png "Threats and Actions taken in the extinct plants datasetr - standard palettes")
