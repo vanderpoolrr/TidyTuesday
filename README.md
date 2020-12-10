@@ -13,12 +13,12 @@ This week it was about exploring prices of items on IKEA Saudi Arabian website t
 
 ## [2020-08-25 - Data: Chopped](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-25/readme.md)
 
-This week* it was about exploring data from the TV show Chopped. [R code to generate figure](/20200825_Chopped_clean.R) 
+This week* it was about exploring data from the TV show Chopped. [R code to generate figure](/20200825_Chopped_clean.R)  (missed posting the analysis and figure at the time: uploaded 12/9/2020)
 
 ![Ratings on the Chopped TV show](/20200831_Chopped.png "Ratings on the Chopped TV show")
 
 
-* missed posting the analysis and figure at the time (uploaded 12/9/2020)
+
 
 
 ## [2020-08-19 - Data: Plants in Danger](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/readme.md)
